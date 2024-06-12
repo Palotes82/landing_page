@@ -35,3 +35,58 @@ body {
 img {
     border-radius: 50%;
 }
+
+h1 {
+    font-family: 'Times New Roman';
+    font-weight: 3400;
+    font-size: 8ch;
+}
+
+p {
+    font-family: Arial;
+    font-size: 2ch;
+    
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+
+}
+
+.titulo {
+    margin-left: 25px;
+    font-family: 'Times New Roman';
+}
+
+.parrafo {
+    margin-left: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.foto {
+    width: 25px;
+    height: 10px;
+    margin-right: 910px;
+}
+
+.boton {
+    margin-left: 65px;
+    padding: 10px 20px;
+    background-color: mediumblue;
+    color: mintcream;
+    border-radius: 3rem;
+}
+
+.about {
+ display: flex;
+ justify-content: center;
+ margin-top: 605px;
+ margin-bottom: 100px;
+ padding: 135px 135px 135px 135px;
+ font-family: sans-serif;
+ text-align: center;
+ fill-opacity: initial;
+ background-color: beige;  
+}
